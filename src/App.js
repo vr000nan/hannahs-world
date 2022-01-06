@@ -1,10 +1,18 @@
+import React from 'react';
 import './App.css';
+import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import Home from './pages';
+import ContactPage from './pages/contact';
+// import NavBar from './components/NavBar';
 
 function App() {
   return (
-    <div className="App">
-      <h1>hello world! this is my first commit</h1>
-    </div>
+    <Router>
+      <Switch>
+        <Route path="/" component={Home} exact/>
+        <Route path="/contact" component={ContactPage} exact/>
+      </Switch>
+    </Router>
   );
 }
 
