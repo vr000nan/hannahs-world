@@ -24,7 +24,7 @@ const Projects = () => {
             <ProjectsWrapper>
                 <ProjectsCard>
                     <ProjectsIcon src={Icon1}/>
-                    <ProjectsH2>Calculator</ProjectsH2>
+                    <ProjectsH2>Retro Draw</ProjectsH2>
                     <ProjectsP>A simple pixel art app made using Javascript.
                     <Button href="https://wroblewski-retro-draw.netlify.app/">Retro Draw</Button>
                     </ProjectsP>
