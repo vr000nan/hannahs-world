@@ -50,7 +50,7 @@ const Projects = () => {
                     <ProjectsIcon src={Icon4}/>
                     <ProjectsH2>Art Collector</ProjectsH2>
                     <ProjectsP>A React.js database made using an API from Harvard Art Museums.
-                    <Button href="https://wroblewski-art-collector.netlify.app/">Art Collector</Button>
+                    <Button href="https://wroblewski-art-collector-react.netlify.app/">Art Collector</Button>
                     </ProjectsP>
                 </ProjectsCard>
             </ProjectsWrapper>
