@@ -31,7 +31,7 @@ const Contact = () => {
                 <FormContent>
                     <Form action="#">
                     <SocialIcons>
-                           <SocialIconLink href="hannahwroblewski209@gmail.com" target="_blank" aria-label="Email">
+                           <SocialIconLink href="mailto:?subject=hannahwroblewski209@gmail.com" target="_blank" aria-label="Email">
                                <FaEnvelope />
                            </SocialIconLink>
                            <SocialIconLink href="https://github.com/HannahWroblewski" target="_blank" aria-label="Github">
