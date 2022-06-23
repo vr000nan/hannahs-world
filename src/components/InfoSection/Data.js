@@ -5,7 +5,7 @@ export const homeObjOne = {
     lightTextDesc: true,
     topLine: 'ABOUT',
     headline: 'About Me',
-    description: 'I am a 25 year old woman currently living in Jacksonville, Florida. I moved here from Cleveland, Ohio in 2016 and have not looked back! I greatly enjoy technology and consider myself to be quite tech-savvy. I have just completed a 6-month long bootcamp through the University of North Florida hosted by FullStack Academy. As much fun as I have had learning to build sites, I am now ready to begin my career as a junior web developer!',
+    description: 'I am a 26 year old woman currently living in Jacksonville, Florida. I moved here from Cleveland, Ohio in 2016 and have not looked back! I greatly enjoy technology and consider myself to be quite tech-savvy. Last December, I completed a 6-month long bootcamp through the University of North Florida hosted by Full Stack Academy. I shortly began working for FSA as a mentor to students taking the same course that I did, as well as assisting the Lead Instructor in their lectures. I greatly enjoy new challenges and am eager to keep building my skills!',
     buttonLabel: 'BUTTON',
     imgStart: false,
     // img: require('../../images/headshot.jpg'),
